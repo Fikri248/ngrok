@@ -1,9 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage('Hello') {
+        stage('Hello World') {
             steps {
-                echo 'My Jenkins Pipeline Github'
+                echo 'My Tugas Jenkins Pipeline Github'
             }
         }
     }
